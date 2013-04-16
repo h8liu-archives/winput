@@ -15,4 +15,4 @@ which handles margins and multi-screens, and is also usually faster. You can fin
 which can be installed by `sudo apt-get install compizconfig-settings-manager`.
 However, if your system uses `metacity`, i.e. Ubuntu 2D, this script could be a handy helper.
 
-Tip: in Ubuntu, you can bind custom global shortcut keys to commands in "Keyboard->Shortcut" settings.
+Tip: in Ubuntu, you can bind custom global shortcut keys to arbitary commands in "Keyboard->Shortcut" settings.
