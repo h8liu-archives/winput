@@ -11,7 +11,8 @@ The script currently does not handle screen margins (like the task bar) very wel
 and it does not identify multiple screen settings either. 
 It is quite easy to change the script to fit your own use though. 
 If your system uses `compiz`, i.e. Ubuntu 3D, it is recommended to use the Compiz/Put plugin instead, 
-which handles margins and multi-screens, and is also usually faster. 
+which handles margins and multi-screens, and is also usually faster. You can find that in `ccsm`,
+which can be installed by `sudo apt-get install compizconfig-settings-manager`.
 However, if your system uses `metacity`, i.e. Ubuntu 2D, this script could be a handy helper.
 
 Tip: in Ubuntu, you can bind custom global shortcut keys to commands in "Keyboard->Shortcut" settings.
