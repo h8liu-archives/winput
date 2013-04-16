@@ -1,4 +1,11 @@
-`winput` is a simple python script that aims to emulate the effect of Compiz plugin [Put](http://wiki.compiz.org/Plugins/Put) for a non-compiz windows manager (like `metacity`, i.e. Ubuntu 2D), or `Win-Left`, `Win-Right` behavior in terms of Microsoft Windows 7. It uses `wnck` python package, which can be installed in Ubuntu 12.04 via:
+`winput` is a simple python script that aims to provide the basic functions of 
+Compiz plugin [Put](http://wiki.compiz.org/Plugins/Put) for a 
+non-compiz windows manager (like `metacity`, i.e. Ubuntu 2D), 
+The Compiz/Put plugin enables the user to position and resize the currently active window to
+several preset positions, like the left or right half of the current screen. The effect is very similar to
+the behavior of pressing `Win-Left`, `Win-Right` keys in Microsoft Windows 7. 
+
+The script requires `wnck` python package, which can be installed in Ubuntu 12.04 via:
 
     sudo apt-get install python-wnck
 
